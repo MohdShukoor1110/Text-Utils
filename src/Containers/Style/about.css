@@ -1,0 +1,4 @@
+.accordion-header {
+    --bs-accordion-border-color: #232323;
+    --bs-accordion-border-width: 0.5px;
+}
