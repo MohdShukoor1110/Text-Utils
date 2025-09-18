@@ -3,7 +3,7 @@
 Text Utils is a dynamic web application built with React that provides a suite of tools for text manipulation. It is designed to be highly responsive and user-friendly, allowing you to easily perform common text operations directly in your browser.
 
 ## 🔎 WebSite Preview
-<!-- ![Project Screenshot]() -->
+![Project Screenshot](https://github.com/MohdShukoor1110/Text-Utils/blob/main/Text%20Utils.png)
 
 ## Features
 
