@@ -2,6 +2,9 @@
 
 Text Utils is a dynamic web application built with React that provides a suite of tools for text manipulation. It is designed to be highly responsive and user-friendly, allowing you to easily perform common text operations directly in your browser.
 
+## 🔎 WebSite Preview
+<!-- ![Project Screenshot]() -->
+
 ## Features
 
 - **Case Conversion:** Convert text to UPPERCASE, lowercase, CamelCase, or Title Case.
